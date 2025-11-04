@@ -10,11 +10,11 @@ Welcome! I am a passionate **.NET Backend Developer** focused on building high-p
 
 I design and implement robust software solutions, prioritizing code quality and performance:
 
-* **API Development:** Crafting high-speed, **RESTful APIs** using **ASP.NET Core 8**.
-* **Architectural Patterns:** Applying clean architecture practices, including **Repository**, **Unit of Work**, and **Services**.
-* **Database Management:** Proficiently working with **Entity Framework Core** and **SQL Server** for complex data handling.
-* **System Building:** Experienced in developing specialized administrative systems such as **Admin Dashboards** and **Education Management Systems**.
-* **Performance Focus:** Dedicated to writing clean, maintainable, and scalable code with a focus on optimization.
+* **API Development:** Crafting high-speed, **RESTful APIs** using **ASP.NET Core 8**.  
+* **Architectural Patterns:** Applying clean architecture practices, including **Repository**, **Unit of Work**, and **Services**.  
+* **Database Management:** Proficiently working with **Entity Framework Core** and **SQL Server** for complex data handling.  
+* **System Building:** Experienced in developing specialized administrative systems such as **Admin Dashboards** and **Education Management Systems**.  
+* **Performance Focus:** Dedicated to writing clean, maintainable, and scalable code with a focus on optimization.  
 
 ---
 
@@ -53,10 +53,10 @@ Check out my coding activity and contributions:
 
 I continuously strive to evolve and sharpen my expertise:
 
-* **Architectural Mastery:** Mastering advanced .NET architectures like **Clean Architecture** and **CQRS (Command Query Responsibility Segregation)**.
-* **Building Robust Systems:** Developing powerful, highly reliable, and reusable backend systems.
-* **Open-Source Contribution:** Actively contributing to the **.NET open-source community**.
-* **Knowledge Sharing:** Sharing insights and helping fellow developers grow.
+* **Architectural Mastery:** Mastering advanced .NET architectures like **Clean Architecture** and **CQRS (Command Query Responsibility Segregation)**.  
+* **Building Robust Systems:** Developing powerful, highly reliable, and reusable backend systems.  
+* **Open-Source Contribution:** Actively contributing to the **.NET open-source community**.  
+* **Knowledge Sharing:** Sharing insights and helping fellow developers grow.  
 
 ---
 
@@ -74,8 +74,16 @@ I'm always open to professional discussions and connections. Feel free to reach 
   <a href="https://github.com/MostafaAnis10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Alt-333.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
