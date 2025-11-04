@@ -2,7 +2,20 @@
 
 ### 💻 Software Engineer | .NET Backend Developer 🚀
 
-Welcome! I am a passionate **.NET Backend Developer** focused on building high-performance, scalable, and secure web applications. I specialize in turning complex requirements into clean, efficient, and maintainable backend solutions using **C#**, **ASP.NET Core**, and **SQL Server**.
+Welcome! I am a passionate **.NET Backend Developer** focused on building high-performance, scalable, and secure web applications.  
+I specialize in turning complex requirements into clean, efficient, and maintainable backend solutions using **C#**, **ASP.NET Core**, and **SQL Server**.
+
+---
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -22,15 +35,12 @@ I design and implement robust software solutions, prioritizing code quality and 
 
 I leverage a powerful set of tools and technologies to ensure product quality:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" title=".NET Core / ASP.NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" title="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,git,github,html,bootstrap" height="48" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,azure,docker,linux" height="48" alt="Advanced Tools" />
 </p>
 
 ---
@@ -73,17 +83,6 @@ I'm always open to professional discussions and connections. Feel free to reach 
   </a>
   <a href="https://github.com/MostafaAnis10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Alt-333.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
