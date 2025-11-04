@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mostafa Anis El-Naggar
 
-### 💻 Backend Developer | ASP.NET Core
+### 💻 Software Engineer | Backend .NET Developer
 
-I'm a dedicated **.NET Backend Developer** passionate about creating scalable, secure, and high-performance web applications.  
-I enjoy transforming ideas into clean, maintainable, and efficient backend systems using **C#**, **ASP.NET Core**, and **SQL Server**.
+I'm a passionate **.NET Backend Developer** focused on building scalable, secure, and high-performance web applications.  
+I love turning complex ideas into clean, maintainable, and efficient backend solutions using **C#**, **ASP.NET Core**, and **SQL Server**.
 
 ---
 
@@ -40,6 +40,9 @@ I enjoy transforming ideas into clean, maintainable, and efficient backend syste
   </a>
   <a href="https://github.com/MostafaAnis10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Alt-333.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_CV_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
 
