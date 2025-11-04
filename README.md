@@ -75,7 +75,7 @@ I'm always open to professional discussions and connections. Feel free to reach 
     <img src="https://img.shields.io/badge/GitHub%20Alt-333.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-ff5722.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
+    <img src="https://drive.google.com/drive/folders/1XkhuItqkocgclkn_RAulQ438nXhvFyE2"/>
   </a>
 </p>
 
